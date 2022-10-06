@@ -16,7 +16,6 @@
         };
         this.proyectos.push(proyecto);
 
-
         this.proyecto = "";
         this.tipo = "";
         this.urgente= false;
